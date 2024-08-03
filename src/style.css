@@ -13,13 +13,13 @@ body {
 }
 h1 {
   text-align: center;
-  font-family: monospace;
+  font-family: "Roboto Mono", monospace;
   font-size: 44px;
   color: #216666;
 }
 h2 {
   margin: 0 0 5px;
-  font-size: 28px;
+  font-size: 30px;
 }
 select {
   display: block;
@@ -55,4 +55,7 @@ select {
 footer {
   text-align: center;
   color: rgba(0, 0, 0, 0.6);
+}
+a {
+  color: #216666;
 }
